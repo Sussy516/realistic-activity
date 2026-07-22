@@ -18,3 +18,4 @@
 2026-07-22T12:51:16+05:00 | Add feature
 2026-07-22T12:54:05+05:00 | Refactor helper functions
 2026-07-22T12:54:19+05:00 | Fix edge case
+2026-07-22T12:59:17+05:00 | Add unit tests
